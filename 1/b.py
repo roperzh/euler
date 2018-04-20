@@ -6,4 +6,3 @@ while iteration != 1000:
 	iteration += 1
 
 print(multiples)
-
